@@ -48,7 +48,7 @@ El repositorio del proyecto es: `https://github.com/armanson/QR-Generator`
     ```
 6.  **Ejecutar la Herramienta:**
     ```bash
-    python QRGenerator_GUI_ARMANSON_FINAL.py
+    python QRGenerator_V1.0.0_Castellano.py
     ```
 
 ### Para Usuarios de macOS
@@ -71,7 +71,7 @@ El repositorio del proyecto es: `https://github.com/armanson/QR-Generator`
     ```
 6.  **Ejecutar la Herramienta:**
     ```bash
-    python QRGenerator_GUI_ARMANSON_FINAL.py
+    python QRGenerator_V1.0.0_Castellano.py
     ```
 
 ### Para Usuarios de Linux
@@ -94,5 +94,5 @@ El repositorio del proyecto es: `https://github.com/armanson/QR-Generator`
     ```
 6.  **Ejecutar la Herramienta:**
     ```bash
-    python QRGenerator_GUI_ARMANSON_FINAL.py
+    python QRGenerator_V1.0.0_Castellano.py
     ```
